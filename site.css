@@ -90,3 +90,6 @@ footer a, footer a:visited {
     font-weight: bold;
 }
 footer{text-decoration: underline;}
+p{
+    text-align: justify;
+}
